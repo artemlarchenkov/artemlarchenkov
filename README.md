@@ -1,6 +1,6 @@
 # Hi there 👋
 ### I am an engineer.
-### I write in C++, Python, MATLAB.
+### Interested in Python, Java, C++
 ### Graduate engineer: 2022 - St. Petersburg State University of Aerospace Instrumentation, specialty "Control in technical systems"
 ### Now a student at ITMO University with a degree in Robotics and Artificial Intelligence.
 
