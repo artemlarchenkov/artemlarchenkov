@@ -1,4 +1,4 @@
-# Привет, меня зовут Артем 👋
+# Hi, my name is Artem 👋
 ### I am an engineer.
 ### Interested in Python, Java, C++
 ### Graduate engineer: 2022 - St. Petersburg State University of Aerospace Instrumentation, specialty "Control in technical systems"
