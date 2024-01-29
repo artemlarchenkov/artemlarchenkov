@@ -36,6 +36,10 @@
   
 </div>
 
+###
+---
+[![codewars](https://www.codewars.com/users/artemlarchenkov/badges/large)](https://www.codewars.com/users/artemlarchenkov)
+###
 ---
 
 ### 🛠 Инструменты:
