@@ -2,7 +2,7 @@
 ### I am an engineer.
 ### Interested in Python, Java, C++
 ### Graduate engineer: 2022 - St. Petersburg State University of Aerospace Instrumentation, specialty "Control in technical systems"
-### Now a student at ITMO University with a degree in Robotics and Artificial Intelligence.
+### Graduate engineer: 2024 - ITMO University with a degree in Robotics and Artificial Intelligence.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
