@@ -12,14 +12,8 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
     <a href="https://t.me/ArtemA_L" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/larchenkovaa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
   
@@ -27,40 +21,44 @@
 
 ### 💻 Технологии:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  
-</div>
+**Core:**  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+</p>
 
-###
+**Also:**  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+</p>
+
+**Android/Kotlin:**  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
+</p>
+
+**Additional skills:** STL, Boost, Multithreading, REST API
+
 ---
-[![codewars](https://www.codewars.com/users/artemlarchenkov/badges/large)](https://www.codewars.com/users/artemlarchenkov)
-###
+### 🚀 Текущий фокус на изучение и углубление в:
+
+- **C++ (11/17/20/23)** — современный C++, STL, многопоточность, управление памятью, шаблоны
+- **Qt 5/6** — разработка GUI-приложений, QML, многопоточные приложения
+- **Linux Development** — Bash, файловая система, SSH, процессы, сетевое взаимодействие, системные инструменты
+- **Backend Golang** — TCP/IP, UDP, REST API, микросервисы, конкурентность (goroutines/channels), интерфейсы
+- **Робототехника и ИИ** — computer vision, machine learning, интеллектуальные системы
+- **Распределённые системы и архитектура** — изучение паттернов API Gateway, Circuit Breaker, CQRS, Event-Driven Architecture
 ---
+### 🧠 Codewars
 
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=artemlarchenkov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artemlarchenkov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.codewars.com/users/artemlarchenkov">
+    <img src="https://www.codewars.com/users/artemlarchenkov/badges/large"/>
+  </a>
+</p>
